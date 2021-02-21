@@ -7,7 +7,6 @@
     "@fortawesome/fontawesome-free": "^5.15.2"
   },
   "devDependencies": {
-    "esbuild": "^0.8.49",
-    "esbuild-plugin-sass": "^0.3.3"
+    "esbuild": "^0.8.49"
   }
 }
